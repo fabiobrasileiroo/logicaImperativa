@@ -1,0 +1,9 @@
+    Após a chegada de 11 novos alunos, há um total de 36 alunos.
+    Os alunos de Português (P) e Matemática (M) estão organizados alternadamente.
+    É mais fácil perceber padrões repetitivos do que caos aleatório.
+    Observando a imagem 3, você identifica mais de 4 repetições do padrão M.
+    Você suspeita que a mudança ocorreu na linha 4, e que isso pode levar a uma mudança na disposição dos padrões.
+    Para confirmar, você pode questionar onde o aluno que trocou estava sentado antes, ou procurar outros padrões.
+    Na imagem 2, observa que há sempre 2 para 4 alunos, tanto vertical quanto horizontalmente.
+    Você percebeu que na linha 5 e na coluna 5 houve uma mudança de padrão, de 4M para 3P e 3M, e na coluna
+    3 e linha 4 de 5M para 1P.
