@@ -9,7 +9,7 @@ inicio
 	escreval("Digite 1 para fumantes ou com animais");
 	escreval("2 para grupos de 5 ou mais pessoas");
 	escreval("3 para qualquer outro grupo de pessoas");
-	escreval("dica: 1>2>3 em ordem de preferência");
+	escreval("dica: 1>2>3 em ordem de preferência da esquerda para direita");
 	leia(num);
 	se(num >=1 E num <=3)
 		escolha(num)
