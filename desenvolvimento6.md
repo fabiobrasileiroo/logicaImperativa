@@ -11,6 +11,8 @@ questã, porque ao meu ver se encaixar melhor na resolucão.
 ```javascript
 Algoritmo 6;
 var
+	i : inteiro;
+	nome : caracter;
 	
 inicio
 	escreval("Digite o nome da equipe");
