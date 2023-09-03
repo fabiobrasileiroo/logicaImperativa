@@ -17,8 +17,7 @@ var
 inicio
 	escreval("Digite o nome da equipe");
 	leia(nome);
-	i <- 1;
-	para i ate 5 passo 1 faca
-		escreval(nome," - ",i,"º");
+	para i de 1 ate 5 passo 1 faca
+		escreval(nome," - ", i,"º");
 	fimpara
 fim.
