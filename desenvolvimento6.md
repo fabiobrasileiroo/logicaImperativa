@@ -12,7 +12,7 @@ questã, porque ao meu ver se encaixar melhor na resolucão.
 Algoritmo 6;
 var
 	i : inteiro;
-	nome : caractere;
+	nomeDaEquipe : caractere;
 	
 inicio
 	escreval("Digite o nome da equipe");
